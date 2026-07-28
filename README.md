@@ -1,15 +1,12 @@
-# LMRTX-Dotfiles
-My collection of packages and configurations for Arch Linux using MangoWM.
-
 # Arch Setup Script
 
-An automated Bash installation script for setting up an Arch Linux environment with a curated list of Wayland components, gaming utilities, audio infrastructure, and custom applications using `paru`.
+An automated Bash installation script for setting up an Arch Linux environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru`.
 
 ## Included Packages
 
 ### Official Repos (`pacman`)
 * **Audio & Media:** `pipewire`, `pipewire-pulse`, `wireplumber`, `easyeffects`, `lsp-plugins`, `obs-studio`, `mpv`
-* **Desktop & Wayland:** `waybar`, `hyprlock`, `swaybg`, `swaync`, `rofi`, `foot`, `thunar`, `file-roller`, `fastfetch`
+* **Desktop & Wayland:** `waybar`, `hyprlock`, `swaybg`, `swaync`, `rofi`, `foot`, `thunar`, `file-roller`, `fastfetch`, `nvim`
 * **System & Portals:** `wayland`, `xorg-xwayland`, `xdg-desktop-portal`, `xdg-desktop-portal-wlr`, `xdg-desktop-portal-gtk`
 * **Gaming & Utilities:** `steam`, `btop`
 
