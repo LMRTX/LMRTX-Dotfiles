@@ -24,5 +24,5 @@ An automated Bash installation script for setting up an Arch Linux environment w
 
 1. Clone or download the script:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
+   git clone [https://github.com/LMRTX/LMRTX-Dotfiles.git](https://github.com/LMRTX/LMRTX-Dotfiles.git)
    cd YOUR_REPO
