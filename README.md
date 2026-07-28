@@ -1,2 +1,31 @@
 # LMRTX-Dotfiles
 My collection of packages and configurations for Arch Linux using MangoWM.
+
+# Arch Setup Script
+
+An automated Bash installation script for setting up an Arch Linux environment with a curated list of Wayland components, gaming utilities, audio infrastructure, and custom applications using `paru`.
+
+## Included Packages
+
+### Official Repos (`pacman`)
+* **Audio & Media:** `pipewire`, `pipewire-pulse`, `wireplumber`, `easyeffects`, `lsp-plugins`, `obs-studio`, `mpv`
+* **Desktop & Wayland:** `waybar`, `hyprlock`, `swaybg`, `swaync`, `rofi`, `foot`, `thunar`, `file-roller`, `fastfetch`
+* **System & Portals:** `wayland`, `xorg-xwayland`, `xdg-desktop-portal`, `xdg-desktop-portal-wlr`, `xdg-desktop-portal-gtk`
+* **Gaming & Utilities:** `steam`, `btop`
+
+### AUR (`paru`)
+* **`vesktop`** - Discord client with Vencord built-in
+* **`mangowm-git`** - Wayland compositor
+* **`ly`** - Lightweight TUI display manager
+* **`proton-cachyos-slr`** - CachyOS Proton build for Steam
+* **`zen-browser-bin`** - Privacy-focused browser binary
+* **`lact`** - Linux AMDGPU Control Tool
+* **`jellyfin-tui`** - Terminal client for Jellyfin
+* **`nwg-look`** - GTK theme settings tool for Wayland
+
+## Usage
+
+1. Clone or download the script:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
+   cd YOUR_REPO
