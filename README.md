@@ -27,8 +27,9 @@ An automated Bash installation script for setting up an Arch Linux environment w
    git clone [https://github.com/LMRTX/LMRTX-Dotfiles.git](https://github.com/LMRTX/LMRTX-Dotfiles.git)
    cd LMRTX-Dotfiles
 
-2. chmod +x install.sh
+2. Make it executable and install:
+   ```bash
+   chmod +x install.sh
+   ./install.sh
 
-3. ./install.sh
-
-4. enjoy
+3. Enjoy
