@@ -1,4 +1,4 @@
-# Arch Setup Script
+# LMRTX-dotfiles
 
 An automated Bash installation script for setting up an Arch Linux environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru`.
 
