@@ -6,15 +6,12 @@
 }
 
 window#waybar {
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0.8);
   border-radius: 6px;
   transition: all 0.3s ease-in-out;
 }
 
-window#waybar:hover{
-	border: 4px solid rgba(255, 244, 230, 0.8);
-}
-/* Common Module Styling for Frosted Glass Effect */
+
 #clock,
 #pulseaudio,
 #tray,
@@ -22,12 +19,12 @@ window#waybar:hover{
   margin: 2px 2px;
 }
 
-/* Center Clock */
+
 #clock {
   font-weight: bold;
 }
 
-/* MangoWM Tags (Left) */
+
 #workspaces button {
   background: transparent;
   color: rgba(255, 248, 240, 0.7);
