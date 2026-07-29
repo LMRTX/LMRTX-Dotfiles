@@ -8,6 +8,8 @@
 
 **`MangoWM` is setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel while still being lightweight for Wayland. (except for screenshot being bound to insert due to TKL keyboard)**
 
+<img width="3438" height="1440" alt="2026-07-29-035941_hyprshot" src="https://github.com/user-attachments/assets/f8d62e7f-d3f9-4e1f-87f1-07f797d8ea93" />
+
 
 ## Included Packages
 
