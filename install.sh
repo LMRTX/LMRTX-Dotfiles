@@ -63,7 +63,21 @@ if ! grep -q "$(which fish)" /etc/shells; then
 fi
 chsh -s "$(which fish)"
 
-echo "=== 6. Enabling ly Display Manager ==="
+echo "=== 6. Deploying Dotfiles and Configurations ==="
+
+if [ -d ".config" ]; then
+    echo "Copying .config directory..."
+    mkdir -p ~/.config
+    cp -r .config/* ~/.config/
+fi
+
+echo "Setting up rofi themes..."
+mkdir -p ~/.local/share/rofi/themes
+if [ -d "themes" ]; then
+    cp -r themes/* ~/.local/share/rofi/themes/
+fi
+
+echo "=== 7. Enabling ly Display Manager ==="
 echo "Enabling ly.service..."
 sudo systemctl enable ly.service
 
