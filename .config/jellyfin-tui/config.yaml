@@ -1,0 +1,6 @@
+servers:
+- name: sigmaballs
+  password: '220706'
+  url: http://192.168.18.202:8096
+  username: lauri
+  show_album_cover_image_art: false

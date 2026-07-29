@@ -1,0 +1,40 @@
+{
+  "layer": "bottom",
+  "position": "bottom",
+  "height": 30,
+  "spacing": 4,
+  "margin-bottom": 6,
+  "margin-left": 10,
+  "margin-right": 10,
+  "modules-left": [
+    "ext/workspaces"
+  ],
+  "modules-center": [
+    "clock"
+  ],
+  "modules-right": [
+    "pulseaudio",
+    "tray"
+  ],
+  "ext/workspaces": {
+    "format": "{icon}",
+    "hide-empty": true,
+    "on-click": "activate"
+  },
+  "clock": {
+    "format": "{:%H:%M}",
+    "format-alt": "{:%A, %B %d, %Y}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  "pulseaudio": {
+    "format": "{volume}% {icon}",
+    "format-muted": "Muted 󰝟",
+    "format-icons": {
+      "default": ["󰕿", "󰖀", "󰕾"]
+    },
+    "on-click": "pavucontrol"
+  },
+  "tray": {
+    "spacing": 10
+  }
+}
