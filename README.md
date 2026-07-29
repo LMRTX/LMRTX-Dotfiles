@@ -3,7 +3,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Wayland](https://img.shields.io/badge/Wayland-Compositor-000000?style=for-the-badge&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 [![Fish Shell](https://img.shields.io/badge/Fish-Shell-2E8B57?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://fishshell.com/)
-(https://img.shields.io/github/stars/:user/:repo)
+[![GitHub Repo](https://img.shields.io/badge/Mango-WM-orange?style=for-the-badge&logo=dwm&logoColor=white)](https://github.com/mangowm/mango)
 
 **An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, configurations and applications using `paru` as the AUR helper.**
 
