@@ -20,7 +20,7 @@ An automated Bash installation script for setting up an Arch Linux MangoWM envir
 * **`jellyfin-tui`** - Terminal client for Jellyfin music
 * **`nwg-look`** - GTK theme settings tool for Wayland
 
-## Usage
+## Install 🛠️
 
 1. Download the script:
    ```bash
