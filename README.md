@@ -1,3 +1,4 @@
+<img width="3438" height="1431" alt="2026-07-29-033918_hyprshot" src="https://github.com/user-attachments/assets/2d387594-33b4-4b1b-a5b2-db003985624f" />
 # ⚡LMRTX-dotfiles⚡
 
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
@@ -9,6 +10,8 @@
 **`MangoWM` is setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel while still being lightweight for Wayland. (except for screenshot being bound to insert due to TKL keyboard)**
 
 <img width="540" height="45" alt="2026-07-29-033620_hyprshot" src="https://github.com/user-attachments/assets/c2f7c63c-1474-4fb8-9510-f25008a27f58" />
+
+<img width="3438" height="1431" alt="2026-07-29-033918_hyprshot" src="https://github.com/user-attachments/assets/101204f9-20b3-4d8e-8ff1-ae515f6be9a2" />
 
 ## Included Packages
 
