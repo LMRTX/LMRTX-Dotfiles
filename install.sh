@@ -42,7 +42,8 @@ sudo pacman -S --needed --noconfirm \
     fish \
     wayland \
     lsp-plugins \
-    xorg-xwayland
+    xorg-xwayland \
+    wlsunset
 
 echo "=== 4. Installing AUR Packages via Paru ==="
 paru -S --needed --noconfirm \
