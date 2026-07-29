@@ -44,28 +44,19 @@
 
 3. Enjoy!
 
-## **Keybinds List**
+**Keybind list**
 
-* **Launch terminal = SUPER+T**
-
-* **Launch Rofi = SUPER+Space**
-
-* **Kill window = SUPER+W**
-
-* **Change tiling = SUPER+N**
-
-* **Launch Thunar = SUPER+E**
-
-* **Fullscreen = SUPER+F**
-
-* **Screenshot = Ins**
-
-* **Toggle floating = SUPER+V**
-
-* **Lockscreen = SUPER+L**
-
-* **Exit session = SUPER+M**
-
-* **Change workspace = SUPER+Workspace Number**
-
-* **Move window to workspace = SUPER+Shift+workspace number**
+| Action | Keybinding |
+| :--- | :--- |
+| **Launch terminal** | <kbd>SUPER</kbd> + <kbd>T</kbd> |
+| **Launch Rofi** | <kbd>SUPER</kbd> + <kbd>Space</kbd> |
+| **Kill window** | <kbd>SUPER</kbd> + <kbd>W</kbd> |
+| **Change tiling** | <kbd>SUPER</kbd> + <kbd>N</kbd> |
+| **Launch Thunar** | <kbd>SUPER</kbd> + <kbd>E</kbd> |
+| **Fullscreen** | <kbd>SUPER</kbd> + <kbd>F</kbd> |
+| **Screenshot** | <kbd>Ins</kbd> |
+| **Toggle floating** | <kbd>SUPER</kbd> + <kbd>V</kbd> |
+| **Lockscreen** | <kbd>SUPER</kbd> + <kbd>L</kbd> |
+| **Exit session** | <kbd>SUPER</kbd> + <kbd>M</kbd> |
+| **Change workspace** | <kbd>SUPER</kbd> + <kbd>Workspace Number</kbd> |
+| **Move window to workspace** | <kbd>SUPER</kbd> + <kbd>Shift</kbd> + <kbd>Workspace Number</kbd> |
