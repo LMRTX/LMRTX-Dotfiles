@@ -10,12 +10,6 @@
 
 <img width="540" height="45" alt="2026-07-29-033620_hyprshot" src="https://github.com/user-attachments/assets/c2f7c63c-1474-4fb8-9510-f25008a27f58" />
 
-
-
-**MangoWM options and binds can be changed from `­~/.config/mango/config.conf`.**
-
-
-
 ## Included Packages
 
 ### Official Repos (`pacman`)
