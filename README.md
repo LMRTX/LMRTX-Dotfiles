@@ -46,26 +46,26 @@
 
 ## **Keybinds List**
 
-**Launch terminal = SUPER+T**
+* **Launch terminal = SUPER+T**
 
-**Launch Rofi = SUPER+Space**
+* **Launch Rofi = SUPER+Space**
 
-**Kill window = SUPER+W**
+* **Kill window = SUPER+W**
 
-**Change tiling = SUPER+N**
+* **Change tiling = SUPER+N**
 
-**Launch Thunar = SUPER+E**
+* **Launch Thunar = SUPER+E**
 
-**Fullscreen = SUPER+F**
+* **Fullscreen = SUPER+F**
 
-**Screenshot = Ins**
+* **Screenshot = Ins**
 
-**Toggle floating = SUPER+V**
+* **Toggle floating = SUPER+V**
 
-**Lockscreen = SUPER+L**
+* **Lockscreen = SUPER+L**
 
-**Exit session = SUPER+M**
+* **Exit session = SUPER+M**
 
-**Change workspace = Super+Workspace Number**
+* **Change workspace = Super+Workspace Number**
 
-**Move window to workspace = SUPER+Shift+workspace number**
+* **Move window to workspace = SUPER+Shift+workspace number**
