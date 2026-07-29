@@ -24,7 +24,7 @@ An automated Bash installation script for setting up an Arch Linux MangoWM envir
 
 1. Download the script:
    ```bash
-   git clone [https://github.com/LMRTX/LMRTX-Dotfiles.git]
+   git clone https://github.com/LMRTX/LMRTX-Dotfiles.git
    cd LMRTX-Dotfiles
 
 2. Make it executable and install:
