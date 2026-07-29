@@ -43,4 +43,18 @@
    ./install.sh
 
 3. Enjoy!
-   
+
+**Keybinds List**
+
+**Launch terminal = SUPER+T**
+**Launch Rofi = SUPER+Space**
+**Kill window = SUPER+W**
+**Change tiling = SUPER+N**
+**Launch Thunar = SUPER+E**
+**Fullscreen = SUPER+F**
+**Screenshot = Ins**
+**Toggle floating = SUPER+V**
+**Lockscreen = SUPER+L**
+**Exit session = SUPER+M**
+**Change workspace = Super+Workspace Number**
+**Move window to workspace = SUPER+Shift+workspace number**
