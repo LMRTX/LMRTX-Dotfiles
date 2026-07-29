@@ -1,6 +1,6 @@
 # LMRTX-dotfiles
 
-An automated Bash installation script for setting up an Arch Linux environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru` as the AUR helper. The script will also install and set `fish` as the default shell.
+An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru` as the AUR helper. The script will also install and set `fish` as the default shell.
 
 ## Included Packages
 
