@@ -51,6 +51,7 @@
 | **Launch terminal** | <kbd>SUPER</kbd> + <kbd>T</kbd> |
 | **Launch Rofi** | <kbd>SUPER</kbd> + <kbd>Space</kbd> |
 | **Kill window** | <kbd>SUPER</kbd> + <kbd>W</kbd> |
+| **Reload config** | <kbd>SUPER</kbd> + <kbd>R</kbd> |
 | **Change tiling** | <kbd>SUPER</kbd> + <kbd>N</kbd> |
 | **Launch Thunar** | <kbd>SUPER</kbd> + <kbd>E</kbd> |
 | **Fullscreen** | <kbd>SUPER</kbd> + <kbd>F</kbd> |
