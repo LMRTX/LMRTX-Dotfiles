@@ -4,7 +4,7 @@
 [![Wayland](https://img.shields.io/badge/Wayland-Compositor-000000?style=for-the-badge&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 [![Fish Shell](https://img.shields.io/badge/Fish-Shell-2E8B57?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://fishshell.com/)
 
-An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru` as the AUR helper. The script will also install and set `fish` as the default shell.
+**An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, and applications using `paru` as the AUR helper. The script will also install and set `fish` as the default shell.**
 
 
 ## Included Packages
