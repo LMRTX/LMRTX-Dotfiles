@@ -6,7 +6,7 @@
 
 **An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, configurations and applications using `paru` as the AUR helper. The script will also install and set `fish` as the default shell.**
 
-**`MangoWM` is setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel. (except for screenshot being insert due to TKL keyboard)**
+**`MangoWM` is setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel. (except for screenshot being bound to insert due to TKL keyboard)**
 
 **MangoWM options and binds can be changed from `­~/.config/mango/config.conf`.**
 
