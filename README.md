@@ -66,6 +66,6 @@
 
 * **Exit session = SUPER+M**
 
-* **Change workspace = Super+Workspace Number**
+* **Change workspace = SUPER+Workspace Number**
 
 * **Move window to workspace = SUPER+Shift+workspace number**
