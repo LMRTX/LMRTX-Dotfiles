@@ -1,4 +1,3 @@
-<img width="3438" height="1431" alt="2026-07-29-033918_hyprshot" src="https://github.com/user-attachments/assets/2d387594-33b4-4b1b-a5b2-db003985624f" />
 # ⚡LMRTX-dotfiles⚡
 
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
