@@ -1,4 +1,4 @@
-# 🥭LMRTX-dotfiles🥭
+# 🥭LMRTX-DOTFILES🥭
 
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![GitHub Repo](https://img.shields.io/badge/Mango-WM-orange?style=for-the-badge&logo=dwm&logoColor=white)](https://github.com/mangowm/mango)
