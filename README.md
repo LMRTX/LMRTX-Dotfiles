@@ -6,14 +6,15 @@
 
 **An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, configurations and applications using `paru` as the AUR helper.**
 
-**`MangoWM` is setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel while still being lightweight for Wayland.**
+**I built this `MangoWM` setup with (in my opinion) sane defaults and a `hyprland` like dynamic feel using dwindle-tiling as the default while still being lightweight for a `Wayland` compositor. I made this setup to be close to `hyprland` so this is not built for someone looking for a `dwm`-like feel**
+
 
 <img width="3438" height="1440" alt="2026-07-29-041138_hyprshot" src="https://github.com/user-attachments/assets/15b8dc02-c7fa-424f-8e4e-3977f9161afe" />
 
 
 ## Included Packages
 
-### Official Repos (`pacman`)
+### Official Repo (`pacman`)
 * **Audio & Media:** `pipewire`, `pipewire-pulse`, `wireplumber`, `easyeffects`, `lsp-plugins`, `obs-studio`, `mpv`
 * **Desktop & Wayland:** `waybar`, `hyprlock`, `swaybg`, `swaync`, `rofi`, `foot`, `thunar`, `file-roller`, `fastfetch`, `nvim`, `btop`, `wlsunset`
 * **System & Portals:** `wayland`, `xorg-xwayland`, `xdg-desktop-portal`, `xdg-desktop-portal-wlr`, `xdg-desktop-portal-gtk`, `xwayland-sateilte`
