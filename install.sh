@@ -43,7 +43,13 @@ sudo pacman -S --needed --noconfirm \
     wayland \
     lsp-plugins \
     xorg-xwayland \
-    wlsunset
+    wlsunset \
+    noto-fonts \
+    noto-fonts-cjk \
+    noto-fonts-emoji \
+    noto-fonts-extra \
+    ttf-jetbrains-mono \
+    ttf-jetbrains-mono-nerd \
 
 echo "=== 4. Installing AUR Packages via Paru ==="
 paru -S --needed --noconfirm \
