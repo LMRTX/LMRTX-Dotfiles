@@ -27,8 +27,9 @@
 
 ## Install 🛠️
 
-1. Download the script:
+1. Download git and clone the repo:
    ```bash
+   sudo pacman -S git
    git clone https://github.com/LMRTX/LMRTX-Dotfiles.git
    cd LMRTX-Dotfiles
 
@@ -37,4 +38,5 @@
    chmod +x install.sh
    ./install.sh
 
-3. Enjoy
+3. Enjoy!
+   
