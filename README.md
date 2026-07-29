@@ -44,7 +44,7 @@
 
 3. Enjoy!
 
-**Keybind list**
+### **Keybind list**
 
 | Action | Keybinding |
 | :--- | :--- |
