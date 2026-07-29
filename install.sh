@@ -9,7 +9,7 @@ echo "=== 2. Checking for Paru AUR helper ==="
 if ! command -v paru &> /dev/null; then
     echo "'paru' not found. Installing paru from AUR..."
     sudo pacman -S --needed --noconfirm git base-devel
-    git clone [https://aur.archlinux.org/paru.git](https://aur.archlinux.org/paru.git) /tmp/paru
+    git clone https://aur.archlinux.org/paru.git /tmp/paru
     cd /tmp/paru
     makepkg -si --noconfirm
     cd ~
