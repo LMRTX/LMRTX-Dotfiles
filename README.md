@@ -44,9 +44,7 @@
 
 3. Enjoy!
 
-##
-
-**Keybinds List**
+## **Keybinds List**
 
 **Launch terminal = SUPER+T**
 
