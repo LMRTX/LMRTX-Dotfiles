@@ -6,7 +6,7 @@
 
 **An automated Bash installation script for setting up an Arch Linux MangoWM environment with my curated list of Wayland components, gaming utilities, audio infrastructure, configurations and applications using `paru` as the AUR helper.**
 
-**I built this `MangoWM` environment with sane defaults and a `hyprland` like dynamic feel using dwindle-tiling and all the eye-candy while still being lightweight for a Wayland session. This is NOT for someone looking for a traditional `dwm`/`dwl`-like experience.**
+**I built this `MangoWM` environment with sane defaults and a `hyprland` like dynamic feel using dwindle-tiling and all the eye-candy while still being lightweight for a Wayland session. 
 
 
 <img width="3438" height="1440" alt="2026-07-29-041138_hyprshot" src="https://github.com/user-attachments/assets/15b8dc02-c7fa-424f-8e4e-3977f9161afe" />
