@@ -20,7 +20,7 @@
 
 ### AUR (`paru`)
 * **`vesktop`** - Discord client with Vencord built-in
-* **`mangowm-git`** - Wayland compositor/window manager
+* **`mangowm-git`** - Wayland compositor
 * **`ly`** - Lightweight TUI display manager
 * **`proton-cachyos-slr`** - CachyOS Proton build for Steam
 * **`zen-browser-bin`** - Performant & customizable Firefox fork
