@@ -88,8 +88,12 @@ echo "Enabling ly.service..."
 sudo systemctl enable ly.service
 
 if systemctl list-unit-files | grep -q "lactd.service"; then
-    echo "Enabling AMD GPU Overclocking"
+    echo "Enabling AMD GPU Overclocking, Pipewire and NetworkManager"
     sudo systemctl enable --now lactd.service
+    systemctl --user enable --now pipewire
+    systemctl --user enable --now pipewire-pulse
+    systemctl --user enable --now wireplumber
+    sudo systemctl enable --now NetworkManager.service
 fi
 
 echo "=== Installation Complete! ==="
