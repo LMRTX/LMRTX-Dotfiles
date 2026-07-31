@@ -44,7 +44,7 @@
 
 3. Enjoy!
 
-## **Keybind list**
+## **Basic keybinds list**
 **Note: xkb is set to finnish nodeadkeys by default. Can be changed from mangowm config at ~/.config/mango/config.conf.**
 
 | Action | Keybinding |
