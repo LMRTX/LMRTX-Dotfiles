@@ -57,6 +57,7 @@ paru -S --needed --noconfirm \
     mangowm-git \
     xwayland-satellite-git \
     ly \
+    polkit-gnome \
     proton-cachyos-slr \
     zen-browser-bin \
     lact \
